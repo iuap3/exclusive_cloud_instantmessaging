@@ -6,8 +6,9 @@
 
 #### 2.请求体说明：
 
-|----|----|
+
 |URL|https://im.yyuap.com/sysadmin/rest/remotevcard/{etpId}/{appId}?username=|
+|----|----|
 |Header|{"Authorization"：apptoken}|
 |method|GET|
 

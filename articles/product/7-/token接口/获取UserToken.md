@@ -7,8 +7,9 @@
 
 #### 2.请求体说明：
 
-|----|----|
+
 |URL|https://im.yyuap.com/sysadmin/rest/{etpId}/{appId}/token|
+|----|----|
 |method|POST|
 |Header|{"Content-Type":"application/json"}|
 

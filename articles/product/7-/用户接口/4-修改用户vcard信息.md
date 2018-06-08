@@ -6,8 +6,9 @@
 
 #### 2.请求体说明：
 
-|----|----|
+
 |URL|https://im.yyuap.com/sysadmin/rest/remotevcard/{etpId}/{appId}/updateVcard|
+|----|----|
 |Header|{"Content-Type":"application/json"}|
 |Header|{"Authorization"：apptoken}|
 |method|PUT|
