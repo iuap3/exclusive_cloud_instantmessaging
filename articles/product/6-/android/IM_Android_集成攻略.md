@@ -1,11 +1,11 @@
 
 
-- QU# <center>用友eUC Android SDK集成指南</center>
-欢迎使用**用友eUC**，在本文档中我们将为您详细介绍，如何在Android APP中集成用友eUC。
+- QU# <center>用友IM Android SDK集成指南</center>
+欢迎使用**用友IM**，在本文档中我们将为您详细介绍，如何在Android APP中集成用友IM。
 
 ## 1 集成准备
 ### 1.1 注册开发者账号
-在用友eUC官网 <https://im.yyuap.com/> 上方点击“注册”，请按界面流程提示进行开发者账号注册。
+在用友IM官网 <https://im.yyuap.com/> 上方点击“注册”，请按界面流程提示进行开发者账号注册。
 ### 1.2 创建应用
 使用开发者账号登录到管理后台，点击页面上方“应用管理”，进入到应用管理。
 点击左侧“新增应用”，输入应用信息即可创建，如图所示：
@@ -16,12 +16,12 @@
 
 ![docimg_android02](./img/docimg_android02.png)
 
-### 1.3 在APP的Server端获取用友eUC token
-用友eUC使用token进行用户验证
+### 1.3 在APP的Server端获取用友IM token
+用友IM使用token进行用户验证
 
-在APP的Server端需要新增一个获取token的服务，供客户端调用，在服务中需要调用用友eUC“获取用户token”的接口获得token并返回给客户端。
+在APP的Server端需要新增一个获取token的服务，供客户端调用，在服务中需要调用用友IM“获取用户token”的接口获得token并返回给客户端。
 
-用友eUC获取用户token接口格式如下：
+用友IM获取用户token接口格式如下：
 
 |接口信息|说明|
 |---------------------|----|
@@ -43,8 +43,8 @@
 |406|ClientID与应用ID不匹配, 检查地址和参数|
 |500|认证过程发生错误|
 
-### 1.4 下载用友eUC Android SDK
-用友eUC Android SDK下载地址:<https://im.yyuap.com/download.html>
+### 1.4 下载用友IM Android SDK
+用友IM Android SDK下载地址:<https://im.yyuap.com/download.html>
 
 ![docimg_android03](./img/docimg_android03.png)
 ## <center>2 sdk集成</center>

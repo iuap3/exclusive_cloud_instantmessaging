@@ -1,5 +1,5 @@
-# <center>用友有信WEB_SDK集成指南</center> #
-感谢您使用**用友有信**，本文档将会详细为您讲述WEB_SDK的使用方法以及集成方案。<br/>
+# <center>用友友信WEB_SDK集成指南</center> #
+感谢您使用**用友友信**，本文档将会详细为您讲述WEB_SDK的使用方法以及集成方案。<br/>
 用户体系是APP当中的核心数据，也是APP中的绝对机密。用友致力于企业级软件多年，深知数据保密的重要性，所以用友IM中不保存任何APP的用户信息，也不想知道这些信息，比如CRM的APP，此APP中的用户姓名，账号，密码，电话，email等信息是保存到CRM自己的服务器中的，在使用用友IM服务时，无需把用户体系上传到用友IM服务器中。
 用友服务希望以最友好的方式将IM嵌入到第三方APP中，反对暴力接入，第三方APP也无需为此改变自己的架构。
 目前用友IM提供开放注册和授权注册两种用户接入的方式，每个APP可按照实际需要单独设置，也可进行调整。 
@@ -15,7 +15,7 @@
 ## 1.集成准备
 
 ### 1.1.注册开发者账号
-在用友有信官网[ <https://im.yonyou.com/>](https://im.yonyou.com "用友有信") 上方点击“注册”，请按界面流程提示进行开发者账号注册。
+在用友友信官网[ <https://im.yonyou.com/>](https://im.yonyou.com "用友友信") 上方点击“注册”，请按界面流程提示进行开发者账号注册。
 
 ### 1.2.创建应用
 使用开发者账号登录到管理后台，点击页面上方“应用管理”，进入到应用管理。
@@ -27,12 +27,12 @@
 
 ![img01](./image/img01.png)
 
-### 1.3.在APP的Server端获取用友有信token
-用友有信使用token进行用户验证
+### 1.3.在APP的Server端获取用友友信token
+用友友信使用token进行用户验证
 
-在APP的Server端需要新增一个获取token的服务，供客户端调用，在服务中需要调用用友有信“获取用户token”的接口获得token并返回给客户端。
+在APP的Server端需要新增一个获取token的服务，供客户端调用，在服务中需要调用用友友信“获取用户token”的接口获得token并返回给客户端。
 
-用友有信使用应用的ClientID和ClientSecret获取应用访问的token,接口描述：
+用友友信使用应用的ClientID和ClientSecret获取应用访问的token,接口描述：
     
 <table>
 <tr>
@@ -84,8 +84,8 @@
 </tr>
 </table>
 
-### 1.4.下载用友有信WEB_SDK
-用友有信WEB_IM下载地址：**[https://im.yonyou.com/download.html](https://im.yonyou.com/download.html "用友有信下载")**<br/>
+### 1.4.下载用友友信WEB_SDK
+用友友信WEB_IM下载地址：**[https://im.yonyou.com/download.html](https://im.yonyou.com/download.html "用友友信下载")**<br/>
 ![img03](./image/img03.png)
 ## 2.初始化
 
@@ -95,7 +95,7 @@ WEB版的sdk主要依赖一个轻量级Javascript的程序库jQuery,这里对jQu
 
 ### 2.2.SDK的集成
 
-在html页面引入jQuery类库和 用友有信的web_sdk。
+在html页面引入jQuery类库和 用友友信的web_sdk。
 
 例如：
     
