@@ -1,4 +1,4 @@
-# 用友eUC
+# 用友IM
 
 * [产品介绍](articles/product/1-/)
     * [产品概述](articles/product/1-/summary.md)
@@ -50,4 +50,5 @@
         * [9-获取指定用户的好友列表](articles/product/7-/用户接口/9-获取指定用户的好友列表.md)
         * [10-增加特别关注人员](articles/product/7-/用户接口/10-增加特别关注人员.md)
         * [11-删除特别关注人员](articles/product/7-/用户接口/11-删除特别关注人员.md)
+* [相关下载](articles/product/11-/)
 
