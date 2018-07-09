@@ -11,24 +11,16 @@
 ### Web版体验
 兼容主流浏览器，对称加密，消息安全
 多套UI模板，随意使用
-<pre>
-[http://172.20.15.66/public/index.html](http://172.20.15.66/public/index.html "立刻体验")
-</pre>
+
+[<立刻体验>](http://172.20.15.66/public/index.html "立刻体验")
+
 ## IM SDK下载
 ### 用友即时通信云SDK是永久免费的，只需要花费你5分钟的时间就可以部署到你的项目中去
-<pre>
+
 [<IOS>](https://im.yonyou.com "IOSSDK")
 [<Android>](https://im.yonyou.com "AndroidSDK")
 [<WEB>](https://im.yonyou.com "WEBSDK")
-</pre>
+
 ## 短信平台 SDK下
-<pre>
+
 [<短信SDK>](https://im.yonyou.com "短信SDK")
-</pre>
-[001]: http://baidu.com "IOS下载"
-[002]: http://baidu.com "Android下载"
-[003]: http://172.20.15.66/public/index.html "立刻体验"
-[004]: http://baidu.com "IOS"
-[005]: http://baidu.com "Android"
-[006]: http://baidu.com "WEB"
-[007]: http://baidu.com "短信SDK"
