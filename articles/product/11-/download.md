@@ -16,8 +16,8 @@
 
 ## IM SDK下载
 用友即时通信云SDK是永久免费的，只需要花费你5分钟的时间就可以部署到你的项目中去
-[IOS](https://im.yonyou.com "IOSSDK")
-[Android](https://im.yonyou.com "AndroidSDK")
+[IOS](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "IOSSDK")
+[Android](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "AndroidSDK")
 [WEB](https://github.com/iuap-design/YYIMSDK/blob/master/dist/YYIMSDK.min.js "WEBSDK")
 ## 短信平台 SDK下
-[<短信SDK>](https://im.yonyou.com "短信SDK")
+[<短信SDK>](https://iuapcdn.yonyoucloud.com/download/usms-sdk.zip "短信SDK")
