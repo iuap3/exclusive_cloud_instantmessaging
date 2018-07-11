@@ -2,8 +2,6 @@
 
 ## IM Demo体验
 ### 移动端体验
-几分钟，为app插上即时通信的翅膀
-虚拟运营商，提供完美的落地电话及VoIP服务
 #### IOS下载
 ![iosdemo](./image/iosdemo.png)
 #### Android下载
@@ -11,18 +9,18 @@
 ### Web版体验
 兼容主流浏览器，对称加密，消息安全
 多套UI模板，随意使用
-
+![web_chat](./image/web_chat.png)
 [立刻体验](http://172.20.15.66/public/index.html "立刻体验")
 
 ## IM SDK下载
 用友即时通信云SDK是永久免费的，只需要花费你5分钟的时间就可以部署到你的项目中去<br/>
-[IOS](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "IOSSDK")
-[Android](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "AndroidSDK")
+[IOS](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "IOSSDK")<br/>
+[Android](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "AndroidSDK")<br/>
 [WEB](https://github.com/iuap-design/YYIMSDK/blob/master/dist/YYIMSDK.min.js "WEBSDK")
 ## 短信平台 SDK下
 [短信SDK](https://iuapcdn.yonyoucloud.com/download/usms-sdk.zip "短信SDK")
 ## 小友SDK下载
-[IOSIM版本](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "IOSIM版本")
-[IOS非IM版本](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "IOS非IM版本")
-[AndroidIM版本](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "AndroidIM版本")
+[IOSIM版本](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "IOSIM版本")<br/>
+[IOS非IM版本](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "IOS非IM版本")<br/>
+[AndroidIM版本](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "AndroidIM版本")<br/>
 [Android非IM版本](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "Android非IM版本")

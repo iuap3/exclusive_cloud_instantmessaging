@@ -1,8 +1,4 @@
 
-
-- QU# <center>用友IM Android SDK集成指南</center>
-欢迎使用**用友IM**，在本文档中我们将为您详细介绍，如何在Android APP中集成用友IM。
-
 ## 1 集成准备
 ### 1.1 注册开发者账号
 在用友IM官网 <https://im.yyuap.com/> 上方点击“注册”，请按界面流程提示进行开发者账号注册。
