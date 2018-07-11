@@ -8,8 +8,8 @@
 ![androiddemo](./image/androiddemo.png)
 ### Web版体验
 兼容主流浏览器，对称加密，消息安全
-多套UI模板，随意使用
-![web_chat](./image/web_chat.png)
+多套UI模板，随意使用<br/>
+![web_chat](./image/web_chat.png)<br/>
 [立刻体验](http://172.20.15.66/public/index.html "立刻体验")
 
 ## IM SDK下载
