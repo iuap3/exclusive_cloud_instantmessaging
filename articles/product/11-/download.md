@@ -20,7 +20,7 @@
 ## 短信平台 SDK下
 [短信SDK](https://iuapcdn.yonyoucloud.com/download/usms-sdk.zip "短信SDK")
 ## 小友SDK下载
-[IOSIM版本](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "IOSIM版本")<br/>
-[IOS非IM版本](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "IOS非IM版本")<br/>
-[AndroidIM版本](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "AndroidIM版本")<br/>
-[Android非IM版本](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "Android非IM版本")
+[IOSIM版本](https://iuapcdn.yonyoucloud.com/download/XiaoYou_IOS_IM.zip "IOSIM版本")<br/>
+[IOS非IM版本](https://iuapcdn.yonyoucloud.com/download/XiaoYou_IOS_NOIM.zip "IOS非IM版本")<br/>
+[AndroidIM版本](https://iuapcdn.yonyoucloud.com/download/AndroidIM版SDK.zip "AndroidIM版本")<br/>
+[Android非IM版本](https://iuapcdn.yonyoucloud.com/download/Android-非IM版SDK.zip "Android非IM版本")
