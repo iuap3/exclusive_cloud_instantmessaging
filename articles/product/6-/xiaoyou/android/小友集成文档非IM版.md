@@ -4,7 +4,7 @@
 ## 1.2 创建应用
 	创建应用的流程与创建IM Android应用相同。
 ## 1.3下载小友SDK
-	小友移动端Android SDK下载地址:[下载中心](../../11-/download.md)
+	小友移动端Android SDK下载地址:[下载中心](../../../11-/download.md)<br/>
 	SDK结构目录如下图所示:
 ![图片](../小友文档Android-非IM版/demo目录结构-非IM版.jpg)
 ## 1.4申请百度语音服务账号
