@@ -11,7 +11,8 @@
     * [小友集成](articles/product/6-/xiaoyou/)
         * [小友集成文档IM版](articles/product/6-/xiaoyou/小友集成文档IM版.md)
         * [小友集成文档非IM版](articles/product/6-/xiaoyou/小友集成文档非IM版.md)
-* [API参考](articles/product/7-/)
+* [服务端API](articles/product/7-/)
+    * [服务端接口使用说明](articles/product/12-/服务端接口文档使用说明.md/)
     * [token接口](articles/product/7-/token接口/)
         * [获取AppToken接口描述](articles/product/7-/token接口/获取AppToken接口描述.md)
         * [获取UserToken](articles/product/7-/token接口/获取UserToken.md)
@@ -51,4 +52,5 @@
         * [10-增加特别关注人员](articles/product/7-/用户接口/10-增加特别关注人员.md)
         * [11-删除特别关注人员](articles/product/7-/用户接口/11-删除特别关注人员.md)
 * [相关下载](articles/product/11-/download.md)
+* [常见问题](articles/product/13-/IM集成常见问题.md)
 

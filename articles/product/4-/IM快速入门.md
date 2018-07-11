@@ -9,7 +9,7 @@
 
 
 ## 1 IM简介
-用友UAP是专注于企业互联网技术的企业计算平台，用友即时通信基于用友云服务架构，是UAP提供的后端服务（BaaS）的重要部分。通过免费的BaaS服务，开发者无需搭建服务端环境，即可将IM快速集成到APP当中去。
+用友UAP是专注于企业互联网技术的企业计算平台，用友即时通信基于用友云服务架构，是UAP提供的后端服务（BaaS）的重要部分。通过BaaS服务，开发者无需搭建服务端环境，即可将IM快速集成到APP当中去。
 
 用友IM涵盖IOS，Android，web，windows，linux多端，多操作系统，提供一系列即插即用的UI模版可供开发者直接使用，同时提供客户端SDK及服务端REST API，开发者可以按照企业级社交场景的实际需要，构建自己的即时通信产品。
 
@@ -106,8 +106,8 @@
 SDK中包含单独封装的demo，开源给开发者，可以实现快速集成，集成指南可参见不同终端的集成指南
 
 
-1. [ios集成指南]()
-2. [andriod集成指南]()
-3. [web集成指南]()
+1. [ios集成指南](articles/product/6-/ios/IM_iOS集成指南.md)
+2. [andriod集成指南](articles/product/6-/android/IM_Android_集成攻略.md)
+3. [web集成指南](articles/product/6-/web/IM_web集成指南.md)
 
 ![zhuce7.jpeg](./img/zhuce7.jpg)
