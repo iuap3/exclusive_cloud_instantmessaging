@@ -106,8 +106,8 @@
 SDK中包含单独封装的demo，开源给开发者，可以实现快速集成，集成指南可参见不同终端的集成指南
 
 
-1. [ios集成指南](articles/product/6-/ios/IM_iOS集成指南.md)
-2. [andriod集成指南](articles/product/6-/android/IM_Android_集成攻略.md)
-3. [web集成指南](articles/product/6-/web/IM_web集成指南.md)
+1. [ios集成指南](../6-/ios/IM_iOS集成指南.md)
+2. [andriod集成指南](../6-/android/IM_Android_集成攻略.md)
+3. [web集成指南](../6-/web/IM_web集成指南.md)
 
 ![zhuce7.jpeg](./img/zhuce7.jpg)
