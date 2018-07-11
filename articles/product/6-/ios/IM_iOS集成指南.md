@@ -23,7 +23,7 @@
 *特别提示：当应用模式为开放注册模式时，调用此接口如果参数userid对应的用户不存在，服务端会创建该用户。*
 
 | 接口信息 | 说明 | 
-| --- | --- | --- | 
+| --- | --- | 
 | URL | https://im.yyuap.com/sysadmin/rest/{etpId}/{appId}/token|  
 | method | POST | 
 | Header | {"Content-Type":"application/json"} | 
