@@ -17,10 +17,10 @@
 [IOS](https://iuapcdn.yonyoucloud.com/download/IMSDK-IOS.zip "IOSSDK")<br/>
 [Android](https://iuapcdn.yonyoucloud.com/download/YYImSdk.zip "AndroidSDK")<br/>
 [WEB](https://github.com/iuap-design/YYIMSDK/blob/master/dist/YYIMSDK.min.js "WEBSDK")
-## 短信平台 SDK下
+## 短信平台 SDK下载
 [短信SDK](https://iuapcdn.yonyoucloud.com/download/usms-sdk.zip "短信SDK")
 ## 小友SDK下载
-[IOSIM版本](https://iuapcdn.yonyoucloud.com/download/XiaoYou_IOS_IM.zip "IOSIM版本")<br/>
-[IOS非IM版本](https://iuapcdn.yonyoucloud.com/download/XiaoYou_IOS_NOIM.zip "IOS非IM版本")<br/>
-[AndroidIM版本](https://iuapcdn.yonyoucloud.com/download/AndroidIM版SDK.zip "AndroidIM版本")<br/>
-[Android非IM版本](https://iuapcdn.yonyoucloud.com/download/Android-非IM版SDK.zip "Android非IM版本")
+[IOS_IM版本](https://iuapcdn.yonyoucloud.com/download/XiaoYou_IOS_IM.zip "IOSIM版本")<br/>
+[IOS_非IM版本](https://iuapcdn.yonyoucloud.com/download/XiaoYou_IOS_NOIM.zip "IOS非IM版本")<br/>
+[Android_IM版本](https://iuapcdn.yonyoucloud.com/download/AndroidIM版SDK.zip "AndroidIM版本")<br/>
+[Android_非IM版本](https://iuapcdn.yonyoucloud.com/download/Android-非IM版SDK.zip "Android非IM版本")

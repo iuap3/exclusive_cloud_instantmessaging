@@ -64,7 +64,7 @@
 
 ### 1.4 下载用友IMiOS SDK
 
-用友IMiOS SDK下载地址:[下载中心](../../../11-/download.md)<br/>
+用友IMiOS SDK下载地址:[下载中心](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/11-/download.md?key=相关下载)<br/>
 
 ### 1.5 iOS推送证书上传
 
