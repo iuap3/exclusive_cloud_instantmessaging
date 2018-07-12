@@ -10,7 +10,7 @@
 
 在应用概况中你可以查看应用的信息，我们会在客户端使用到“应用ID”和“企业ID”，在服务端进行获取token服务时使用到“ClientID”和“ClientSecret”，如果忘记了可以在这里查看。
 
-![docimg_android02](./img/docimg_android02.png)
+![docimg_android06](./img/docimg_android06.png)
 
 ### 1.3 在APP的Server端获取用友IM token
 用友IM使用token进行用户验证
@@ -40,7 +40,7 @@
 |500|认证过程发生错误|
 
 ### 1.4 下载用友IM Android SDK
-用友IM Android SDK下载地址:<https://im.yyuap.com/download.html>
+用友IM Android SDK下载地址:[下载中心](../../../11-/download.md)<br/>
 
 ![docimg_android03](./img/docimg_android03.png)
 ## <center>2 sdk集成</center>

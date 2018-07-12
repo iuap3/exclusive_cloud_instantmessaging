@@ -64,7 +64,7 @@
 
 ### 1.4 下载用友IMiOS SDK
 
-*用友IMiOS SDK下载地址:<https://im.yyuap.com/download.html>*
+用友IMiOS SDK下载地址:[下载中心](../../../11-/download.md)<br/>
 
 ### 1.5 iOS推送证书上传
 

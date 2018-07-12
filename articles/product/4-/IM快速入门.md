@@ -106,8 +106,6 @@
 SDK中包含单独封装的demo，开源给开发者，可以实现快速集成，集成指南可参见不同终端的集成指南
 
 
-1. [ios集成指南](../6-/ios/IM_iOS集成指南.md)
-2. [andriod集成指南](../6-/android/IM_Android_集成攻略.md)
-3. [web集成指南](../6-/web/IM_web集成指南.md)
-
-![zhuce7.jpeg](./img/zhuce7.jpg)
+1. [ios集成指南](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/6-/android/IM_Android_%E9%9B%86%E6%88%90%E6%94%BB%E7%95%A5.md?key=Android%E9%9B%86%E6%88%90)
+2. [andriod集成指南](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/6-/ios/IM_iOS%E9%9B%86%E6%88%90%E6%8C%87%E5%8D%97.md?key=IOS%E9%9B%86%E6%88%90)
+3. [web集成指南](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/6-/web/IM_web%E9%9B%86%E6%88%90%E6%8C%87%E5%8D%97.md?key=web%E9%9B%86%E6%88%90)
