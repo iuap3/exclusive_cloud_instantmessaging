@@ -24,8 +24,9 @@
 
 #### 4.成功返回内容：
 
-|----|----|
+
 |格式|JSON|
+|----|----|
 |username|String，用户标识|
 |name|String，用户的昵称|
 |email|String，邮箱|
