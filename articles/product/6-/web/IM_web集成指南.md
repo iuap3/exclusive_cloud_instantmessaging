@@ -85,7 +85,7 @@
 </table>
 
 ### 1.4.下载用友友信WEB_SDK
-用友友信WEB_IM下载地址：**[https://im.yonyou.com/download.html](https://im.yonyou.com/download.html "用友友信下载")**<br/>
+用友友信WEB_IM下载地址：**[https://github.com/iuap-design/YYIMSDK/blob/master/dist/YYIMSDK.min.js](https://github.com/iuap-design/YYIMSDK/blob/master/dist/YYIMSDK.min.js "用友友信下载")**<br/>
 ![img03](./image/img03.png)
 ## 2.初始化
 

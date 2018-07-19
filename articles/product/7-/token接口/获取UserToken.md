@@ -36,8 +36,9 @@
 
 #### 4.成功返回内容：
 
-|----|----|
+
 |格式|JSON|
+|----|----|
 |token|String类型，对应的token值|
 |expiration|Long类型，token的过期时间戳|
 
