@@ -6,7 +6,7 @@
 ## 1.3下载小友SDK
 	小友移动端Android SDK下载地址:[下载中心](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/11-/download.md?key=相关下载)<br/>
 	SDK结构目录如下图所示:
-![图片](../小友文档Android-非IM版/demo目录结构-非IM版.jpg)
+![noim.jpg](./noim.jpg)
 ## 1.4申请百度语音服务账号
 	由于小友SDK的语音识别等能力使用百度语音服务，因此，需要用户自行创建账号以获取授权使用相关服务。地址:http://ai.baidu.com
 	用户创建百度账号及应用后，获取appid、apikey、secretkey，后续集成过程中会使用。
@@ -23,13 +23,34 @@
 	libbdEASRAndroid.so
 	libbdSpilWakeup.so
 	libvad.dnn.so
-## 2.3初始化SDK
+## 2.3其他依赖及配置
 	// appId appKey secretKey 网站上您申请的应用获取。
     //注意使用离线合成功能的话，需要应用中填写您app的包名。
     //包名在build.gradle中获取。
-      InitConfig initConfig = new 	    		InitConfig(getMetaDataValue(context, 		"com.baidu.speech.APP_ID"),
-                getMetaDataValue(context, 			"com.baidu.speech.API_KEY"), 				getMetaDataValue(context, 			"com.baidu.speech.SECRET_KEY"),
-                ttsMode, params, null);
+    build.gradle配置
+    
+		    dependencies {
+			    compile fileTree(include: ['*.jar'], dir: 'libs')
+			    compile 'com.android.support:appcompat-v7:25.0.0'
+			    compile 'com.android.support:recyclerview-v7:25+'
+			    compile 'com.github.stuxuhai:jpinyin:1.1.8'
+			    compile 'com.google.code.gson:gson:2.6.2'
+			    compile 'com.github.bumptech.glide:glide:3.6.1'
+			    compile 'org.xutils:xutils:3.3.40'
+			}
+	
+			<meta-data
+	         android:name="com.baidu.speech.APP_ID"
+	         android:value="11208749" />
+        
+	   		<meta-data
+	         android:name="com.baidu.speech.API_KEY"
+	         android:value="IsBkMplKkH4ovQSuazD230w2" />
+        
+	    	<meta-data
+	         android:name="com.baidu.speech.SECRET_KEY"
+	         android:value="YuIQXt9X5nUBpuZ8kNRXXTljD2X7uXhg" />
+    
 ## 2.4调起小友界面及实现监听
 	//初始化小友界面并实现XYMessageListener监听
      Intent intent=newIntent(context,XYAIChatActivityNew.class);
