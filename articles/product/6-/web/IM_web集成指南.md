@@ -15,7 +15,7 @@
 ## 1.集成准备
 
 ### 1.1.注册开发者账号
-在用友友信官网[ <https://im.yonyou.com/>](https://im.yonyou.com "用友友信") 上方点击“注册”，请按界面流程提示进行开发者账号注册。
+在用友友信官网[ <https://euc.yonyoucloud.com/register?service=https%3A%2F%2Fim.yonyou.com%2Fcontroller%2Findex&sysid=imyonyou>](https://euc.yonyoucloud.com/register?service=https%3A%2F%2Fim.yonyou.com%2Fcontroller%2Findex&sysid=imyonyou "用友友信") ，请按界面流程提示进行开发者账号注册。
 
 ### 1.2.创建应用
 使用开发者账号登录到管理后台，点击页面上方“应用管理”，进入到应用管理。
