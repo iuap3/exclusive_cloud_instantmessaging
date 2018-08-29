@@ -73,7 +73,10 @@ SDK结构目录如下图所示:
     	id object = info[XiaoYouDataName];
     	NSLog(@"action:%@, object:%@", action, object);
 	}
-## 2.5其他设置
+## 2.5自定义配置文件
+增加小友配置文件（XiaoYouConfig.json，在SDK的文件夹目录下），以满足不同产品在首页提示语、帮助、设置等方面展示内容不同的需要。
+注意：使用默认的首页提示语、帮助、设置时，不需要在工程中引入该配置文件
+## 2.6其他设置
 系统权限
 
 	（1）麦克风权限
