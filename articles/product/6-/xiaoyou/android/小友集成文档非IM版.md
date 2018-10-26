@@ -6,7 +6,7 @@
 ## 1.3下载小友SDK
 	小友移动端Android SDK下载地址:[下载中心](https://iuap.yonyoucloud.com/doc/instantmessaging.html#/md-build/exclusive_cloud_instantmessaging/articles/product/11-/download.md?key=相关下载)<br/>
 	SDK结构目录如下图所示:
-![noim.jpg](./noim.jpg)
+![noim.jpg](http://iuapcdn.yonyoucloud.com/md-build/exclusive_cloud_instantmessaging/articles/product/6-/xiaoyou/android/noim.jpg)
 ## 1.4申请百度语音服务账号
 	由于小友SDK的语音识别等能力使用百度语音服务，因此，需要用户自行创建账号以获取授权使用相关服务。地址:http://ai.baidu.com
 	用户创建百度账号及应用后，获取appid、apikey、secretkey，后续集成过程中会使用。
